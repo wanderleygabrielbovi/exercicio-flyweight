@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a38e945-1803-43ff-acf5-02ae34ea9326" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweight.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flywheight-juliano.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/flyway-juliano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/flyway-juliano.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flyway-juliano/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/flywheight-juliano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/flywheight-juliano.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/flywheight-juliano/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/CorIndefinida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/CorIndefinida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/TamanhoMenorQueUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/TamanhoMenorQueUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gestao_cores/Cor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestao_cores/Cor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gestao_cores/CorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestao_cores/CorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gestao_cores/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestao_cores/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gestao_cores/FormaManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestao_cores/FormaManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nLoaWvzM16MvsR4mrhrWYOVzvI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/wander/Downloads/flyweight"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a38e945-1803-43ff-acf5-02ae34ea9326" name="Changes" comment="" />
+      <created>1728761781567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728761781567</updated>
+    </task>
+    <servers />
+  </component>
+</project>
